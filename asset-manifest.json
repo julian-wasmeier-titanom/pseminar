@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.4fb66cbc.chunk.css",
-    "main.js": "/static/js/main.f571d158.chunk.js",
-    "main.js.map": "/static/js/main.f571d158.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.cd2f5562.js",
-    "runtime-main.js.map": "/static/js/runtime-main.cd2f5562.js.map",
-    "static/js/2.2986b664.chunk.js": "/static/js/2.2986b664.chunk.js",
-    "static/js/2.2986b664.chunk.js.map": "/static/js/2.2986b664.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.4fb66cbc.chunk.css.map": "/static/css/main.4fb66cbc.chunk.css.map",
-    "static/js/2.2986b664.chunk.js.LICENSE.txt": "/static/js/2.2986b664.chunk.js.LICENSE.txt",
-    "static/media/home.css": "/static/media/rome.a5a8419b.jpg"
+    "main.css": "/http//julian-wasmeier-titanom.gihub.io/pseminar/static/css/main.a408843c.chunk.css",
+    "main.js": "/http//julian-wasmeier-titanom.gihub.io/pseminar/static/js/main.f571d158.chunk.js",
+    "main.js.map": "/http//julian-wasmeier-titanom.gihub.io/pseminar/static/js/main.f571d158.chunk.js.map",
+    "runtime-main.js": "/http//julian-wasmeier-titanom.gihub.io/pseminar/static/js/runtime-main.49b584c7.js",
+    "runtime-main.js.map": "/http//julian-wasmeier-titanom.gihub.io/pseminar/static/js/runtime-main.49b584c7.js.map",
+    "static/js/2.2986b664.chunk.js": "/http//julian-wasmeier-titanom.gihub.io/pseminar/static/js/2.2986b664.chunk.js",
+    "static/js/2.2986b664.chunk.js.map": "/http//julian-wasmeier-titanom.gihub.io/pseminar/static/js/2.2986b664.chunk.js.map",
+    "index.html": "/http//julian-wasmeier-titanom.gihub.io/pseminar/index.html",
+    "static/css/main.a408843c.chunk.css.map": "/http//julian-wasmeier-titanom.gihub.io/pseminar/static/css/main.a408843c.chunk.css.map",
+    "static/js/2.2986b664.chunk.js.LICENSE.txt": "/http//julian-wasmeier-titanom.gihub.io/pseminar/static/js/2.2986b664.chunk.js.LICENSE.txt",
+    "static/media/home.css": "/http//julian-wasmeier-titanom.gihub.io/pseminar/static/media/rome.a5a8419b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cd2f5562.js",
+    "static/js/runtime-main.49b584c7.js",
     "static/js/2.2986b664.chunk.js",
-    "static/css/main.4fb66cbc.chunk.css",
+    "static/css/main.a408843c.chunk.css",
     "static/js/main.f571d158.chunk.js"
   ]
 }
