@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/http//julian-wasmeier-titanom.github.io/pseminar/static/css/main.6da9c522.chunk.css",
-    "main.js": "/http//julian-wasmeier-titanom.github.io/pseminar/static/js/main.f571d158.chunk.js",
-    "main.js.map": "/http//julian-wasmeier-titanom.github.io/pseminar/static/js/main.f571d158.chunk.js.map",
-    "runtime-main.js": "/http//julian-wasmeier-titanom.github.io/pseminar/static/js/runtime-main.f775ebdb.js",
-    "runtime-main.js.map": "/http//julian-wasmeier-titanom.github.io/pseminar/static/js/runtime-main.f775ebdb.js.map",
-    "static/js/2.2986b664.chunk.js": "/http//julian-wasmeier-titanom.github.io/pseminar/static/js/2.2986b664.chunk.js",
-    "static/js/2.2986b664.chunk.js.map": "/http//julian-wasmeier-titanom.github.io/pseminar/static/js/2.2986b664.chunk.js.map",
-    "index.html": "/http//julian-wasmeier-titanom.github.io/pseminar/index.html",
-    "static/css/main.6da9c522.chunk.css.map": "/http//julian-wasmeier-titanom.github.io/pseminar/static/css/main.6da9c522.chunk.css.map",
-    "static/js/2.2986b664.chunk.js.LICENSE.txt": "/http//julian-wasmeier-titanom.github.io/pseminar/static/js/2.2986b664.chunk.js.LICENSE.txt",
-    "static/media/home.css": "/http//julian-wasmeier-titanom.github.io/pseminar/static/media/rome.a5a8419b.jpg"
+    "main.css": "/pseminar/static/css/main.a111a728.chunk.css",
+    "main.js": "/pseminar/static/js/main.f571d158.chunk.js",
+    "main.js.map": "/pseminar/static/js/main.f571d158.chunk.js.map",
+    "runtime-main.js": "/pseminar/static/js/runtime-main.b0f76178.js",
+    "runtime-main.js.map": "/pseminar/static/js/runtime-main.b0f76178.js.map",
+    "static/js/2.2986b664.chunk.js": "/pseminar/static/js/2.2986b664.chunk.js",
+    "static/js/2.2986b664.chunk.js.map": "/pseminar/static/js/2.2986b664.chunk.js.map",
+    "index.html": "/pseminar/index.html",
+    "static/css/main.a111a728.chunk.css.map": "/pseminar/static/css/main.a111a728.chunk.css.map",
+    "static/js/2.2986b664.chunk.js.LICENSE.txt": "/pseminar/static/js/2.2986b664.chunk.js.LICENSE.txt",
+    "static/media/home.css": "/pseminar/static/media/rome.a5a8419b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f775ebdb.js",
+    "static/js/runtime-main.b0f76178.js",
     "static/js/2.2986b664.chunk.js",
-    "static/css/main.6da9c522.chunk.css",
+    "static/css/main.a111a728.chunk.css",
     "static/js/main.f571d158.chunk.js"
   ]
 }
