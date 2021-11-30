@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/pseminar/static/css/main.a111a728.chunk.css",
-    "main.js": "/pseminar/static/js/main.0fae2af2.chunk.js",
-    "main.js.map": "/pseminar/static/js/main.0fae2af2.chunk.js.map",
+    "main.js": "/pseminar/static/js/main.ef1dd17c.chunk.js",
+    "main.js.map": "/pseminar/static/js/main.ef1dd17c.chunk.js.map",
     "runtime-main.js": "/pseminar/static/js/runtime-main.b0f76178.js",
     "runtime-main.js.map": "/pseminar/static/js/runtime-main.b0f76178.js.map",
-    "static/js/2.2986b664.chunk.js": "/pseminar/static/js/2.2986b664.chunk.js",
-    "static/js/2.2986b664.chunk.js.map": "/pseminar/static/js/2.2986b664.chunk.js.map",
+    "static/js/2.53826fdb.chunk.js": "/pseminar/static/js/2.53826fdb.chunk.js",
+    "static/js/2.53826fdb.chunk.js.map": "/pseminar/static/js/2.53826fdb.chunk.js.map",
     "index.html": "/pseminar/index.html",
     "static/css/main.a111a728.chunk.css.map": "/pseminar/static/css/main.a111a728.chunk.css.map",
-    "static/js/2.2986b664.chunk.js.LICENSE.txt": "/pseminar/static/js/2.2986b664.chunk.js.LICENSE.txt",
+    "static/js/2.53826fdb.chunk.js.LICENSE.txt": "/pseminar/static/js/2.53826fdb.chunk.js.LICENSE.txt",
     "static/media/home.css": "/pseminar/static/media/rome.a5a8419b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.b0f76178.js",
-    "static/js/2.2986b664.chunk.js",
+    "static/js/2.53826fdb.chunk.js",
     "static/css/main.a111a728.chunk.css",
-    "static/js/main.0fae2af2.chunk.js"
+    "static/js/main.ef1dd17c.chunk.js"
   ]
 }
